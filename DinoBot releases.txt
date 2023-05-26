@@ -1,0 +1,5 @@
+Melhorias de código no DinoBot:
+- Agora o dino se adapta ao aumento de velocidade do jogo fazendo um increase na variavel X toda vez que realizar um pulo, o que o faz pular mais cedo 
+com o passar do tempo;
+- Agora são usados no código os comandos do pyautogui keyup e keydown ao inves de apenas press, o que possibilita fazer o bot andar sempre abaixado
+evitando inimigos aéreos e ainda sim conseguir pular obstaculos terrestres quando necessário.
